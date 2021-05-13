@@ -1,2 +1,2 @@
-# nba-log-reg
-Understanding the impact of different variables on a NBA game outcome
+# [Italiano]
+[Italiano] Nella presente repository potrete trovare la mia tesi di laurea triennale in Statistica, incentrata sullo studio della rilevanza e dell'impatto delle principali variabili sull'esito delle partite della NBA. 
